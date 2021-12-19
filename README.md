@@ -1,4 +1,4 @@
 # Esonero_RetiDiCalcolatori-UDP
 
-Progetto UDP per il secondo esonero di reti di calcolatori 21/22
+UDP Client/server program for computer network 21/22 
 Antonio Sequenza
